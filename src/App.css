@@ -1,0 +1,46 @@
+*{
+  background-color: rgb(228, 124, 124);
+  text-decoration: none;
+} 
+
+  
+.list{
+  display: flex;
+  flex-wrap:wrap ;
+  justify-content: space-between;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  
+  }
+  .poster{
+    margin: 20px;
+    border:groove;
+    
+  
+  }
+.navbar{
+  
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: darksalmon;
+}
+.filter{
+margin: 20px;
+}
+.byn{
+  background-color:wheat;
+}
+.Details{
+  justify-content: center;
+  text-align: center;
+width: 80%;
+margin: auto;
+padding: 20px;}
+.watch{
+  text-align: center;
+}
+
+
